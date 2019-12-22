@@ -1,0 +1,19 @@
+.new-year-card{
+    background-image: url(https://media.giphy.com/media/12RAfAXFH8g5LG/giphy.gif);
+    background-size: cover;
+}
+.new-year-card img{
+    margin-left: 500px;
+}
+.new-year-card .text{
+    font-size: 19px;
+    font-weight: 900;
+    color: #241d33;
+    font-family: 'Mansalva', cursive;
+}
+.new-year-card .from{
+    font-size: 15px;
+    color: crimson;
+    font-style: italic;
+    font-weight: 800;
+}
